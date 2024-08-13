@@ -1,14 +1,10 @@
 # 15조가십오조 CS study 🔥
-
 > Since 2024.08.14
 
 **일정** : 매주 수요일/토요일 주 2회 
 
 **방식** : 주 2개의 주제 선정, 주제에 대해 내용 정리 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22045163/111120575-d9370f00-85ae-11eb-8fa3-54f47ed3caa3.png" alt="coding" width="150px" />
-</p>
+![initial](https://github.com/user-attachments/assets/192a8f17-50b2-4e11-8f8c-a86fb4057515)
 
 
 ## About
