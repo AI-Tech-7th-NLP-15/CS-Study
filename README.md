@@ -27,8 +27,8 @@
 - [정규화](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94)
 - [트랜잭션](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
 - [인덱스](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4)
-- [조인]
-- [동시성 제어]
+- [조인](https://github.com/ssunbear/CS-Study/tree/main/Database/%EC%A1%B0%EC%9D%B8)
+- [병행제어](https://github.com/ssunbear/CS-Study/tree/main/Database/%EB%B3%91%ED%96%89%EC%A0%9C%EC%96%B4)
 
 
 ## Operating System (운영체제)
@@ -66,5 +66,5 @@
 | -------- | -------- | -------- | ----------------------------------------------------- | ---------------------------------------------------- | 
 | 1주차 | 8/14 (수)  | 데이터베이스   | 데이터베이스 기본 | 정규화     |
 | 1주차 | 8/18 (토)  | 데이터베이스   | 트랜잭션과 무결성 | 인덱스    |
-| 2주차 | 8/21 (수)  | 데이터베이스   | 조인| 동시성 제어 |
+| 2주차 | 8/21 (수)  | 데이터베이스   | 조인| 병행제어 |
 
