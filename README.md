@@ -1,7 +1,7 @@
 # 15조가십오조 CS study 🔥
 > Since 2024.08.14
 
- **일정** : 매주 수요일 / 토요일 or 일요일 주 2회 
+ **일정** : 매주 토요일 or 일요일 주 1회 
 
  **방식** : 주 2개의 주제 선정, 주제에 대해 내용 정리 
 
@@ -36,8 +36,8 @@
 - [CPU 스케줄링](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
 - [데드락](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%%C3%A520System/%EB%8D%B0%EB%93%9C%EB%9D%BD)
 - [프로세스 동기화](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94)
-- [프로세스와 스레드의 상태]
-- [인터럽트]
+- [프로세스와 스레드의 상태](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%83%81%ED%83%9C)
+- [인터럽트](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8)
 - [페이지 교체 알고리즘]
 - [디스크 스케줄링 & RAID]
 
@@ -69,4 +69,5 @@
 | 2주차 | 8/21 (수)  | 데이터베이스   | 조인| 병행제어 |
 | 2주차 | 8/25 (일)  | 운영체제   | 프로세스와 스레드| CPU 스케줄링|
 | 3주차 | 8/28 (수)  | 운영체제  | 데드락| 프로세스 동기화 |
-| 3주차 | 8/31 (토)  | 운영체제   | 프로세스와 스레드의 상태| 페이지 교체 알고리즘|
+| 3주차 | 9/1 (일)  | 운영체제   | 프로세스와 스레드의 상태 | 인터럽트|
+| 4주차 | 9/8 (일)  | 운영체제   | 페이지 교체 알고리즘 | 디스크 스케줄링 & RAID|
