@@ -34,7 +34,7 @@
 ## Operating System (운영체제)
 - [프로세스와 스레드](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C)
 - [CPU 스케줄링](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
-- [데드락](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%%C3%A520System/%EB%8D%B0%EB%93%9C%EB%9D%BD)
+- [데드락](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%EB%8D%B0%EB%93%9C%EB%9D%BD)
 - [프로세스 동기화](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94)
 - [프로세스와 스레드의 상태](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%83%81%ED%83%9C)
 - [인터럽트](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Operating%20System/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8)
