@@ -43,8 +43,8 @@
 
 
 ## Computer Network (컴퓨터네트워크)
-- [OSI 7계층]
-- [DNS]
+- [OSI 7계층](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/OSI%207%EA%B3%84%EC%B8%B5)
+- [DNS](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/DNS)
 - [HTTP/HTTPS]
 - [소켓/CDN/웹캐시]
 - [TCP/UDP]
@@ -72,3 +72,4 @@
 | 3주차 | 9/1 (일)  | 운영체제   | 프로세스와 스레드의 상태 | 인터럽트|
 | 4주차 | 9/8 (일)  | 운영체제   | 페이지 교체 알고리즘 | 디스크 스케줄링 |
 | 5주차 | 9/15 (일)  | 컴퓨터네트워크  | OSI 7계층 | DNS |
+| 6주차 | 9/22 (일)  | 컴퓨터네트워크  | HTTP/HTTPS | 소켓/CDN/웹캐시 |
