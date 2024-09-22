@@ -1,7 +1,7 @@
 # 15조가십오조 CS study 🔥
 > Since 2024.08.14
 
- **일정** : 매주 토요일 or 일요일 주 1회 
+ **일정** : 매주 일요일 주 1회 
 
  **방식** : 주 2개의 주제 선정, 주제에 대해 내용 정리 
 
@@ -45,8 +45,8 @@
 ## Computer Network (컴퓨터네트워크)
 - [OSI 7계층](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/OSI%207%EA%B3%84%EC%B8%B5)
 - [DNS](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/DNS)
-- [HTTP/HTTPS]
-- [소켓/CDN/웹캐시]
+- [HTTP/HTTPS](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/HTTP%2CHTTPS)
+- [소켓/CDN/웹캐시](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/%EC%86%8C%EC%BC%93%2CCDN%2C%EC%9B%B9%EC%BA%90%EC%8B%B1)
 - [TCP/UDP]
 - [라우팅과 포워딩]
 - [IPv4 & IPv6]
@@ -73,3 +73,4 @@
 | 4주차 | 9/8 (일)  | 운영체제   | 페이지 교체 알고리즘 | 디스크 스케줄링 |
 | 5주차 | 9/15 (일)  | 컴퓨터네트워크  | OSI 7계층 | DNS |
 | 6주차 | 9/22 (일)  | 컴퓨터네트워크  | HTTP/HTTPS | 소켓/CDN/웹캐시 |
+| 7주차 | 9/29 (일)  | 컴퓨터네트워크  | TCP/UDP | 라우팅과 포워딩 |
