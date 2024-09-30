@@ -47,13 +47,13 @@
 - [DNS](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/DNS)
 - [HTTP/HTTPS](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/HTTP%2CHTTPS)
 - [소켓/CDN/웹캐시](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/%EC%86%8C%EC%BC%93%2CCDN%2C%EC%9B%B9%EC%BA%90%EC%8B%B1)
-- [TCP/UDP]
-- [라우팅과 포워딩]
-- [IPv4 & IPv6]
-- [NAT & public ip & private ip]
-- [CORS & CSRF]
-- [로드밸런싱 & 게이트웨이]
-- [이더넷 & LAN & WAN]
+- [TCP/UDP](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/TCP%2CUDP)
+- [라우팅과 포워딩](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/%EB%9D%BC%EC%9A%B0%ED%8C%85%2C%ED%8F%AC%EC%9B%8C%EB%94%A9)
+- [IPv4/IPv6]
+- [NAT/public ip/private ip]
+- [CORS/CSRF]
+- [로드밸런싱/게이트웨이]
+- [이더넷/LAN/WAN]
 
 
 
@@ -74,3 +74,4 @@
 | 5주차 | 9/15 (일)  | 컴퓨터네트워크  | OSI 7계층 | DNS |
 | 6주차 | 9/22 (일)  | 컴퓨터네트워크  | HTTP/HTTPS | 소켓/CDN/웹캐시 |
 | 7주차 | 9/29 (일)  | 컴퓨터네트워크  | TCP/UDP | 라우팅과 포워딩 |
+| 8주차 | 10/6 (일)  | 컴퓨터네트워크  | IPv4/IPv6 | NAT/public ip/private ip |
