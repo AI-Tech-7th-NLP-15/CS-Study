@@ -51,8 +51,8 @@
 - [라우팅과 포워딩](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/%EB%9D%BC%EC%9A%B0%ED%8C%85%2C%ED%8F%AC%EC%9B%8C%EB%94%A9)
 - [IPv4/IPv6](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/IPv4%2CIPv6)
 - [NAT/public ip/private ip](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/NAT%2CPublic%20IP%2CPrivate%20IP)
-- [CORS/CSRF]
-- [로드밸런싱/게이트웨이]
+- [CORS/CSRF](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/CORS%2CCSRF)
+- [로드밸런싱/게이트웨이](https://github.com/AI-Tech-7th-NLP-15/CS-Study/tree/main/Network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1%2C%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4)
 - [이더넷/LAN/WAN]
 
 
@@ -76,3 +76,4 @@
 | 7주차 | 9/29 (일)  | 컴퓨터네트워크  | TCP/UDP | 라우팅과 포워딩 |
 | 8주차 | 10/6 (일)  | 컴퓨터네트워크  | IPv4/IPv6 | NAT/public ip/private ip |
 | 9주차 | 10/13 (일)  | 컴퓨터네트워크  | CORS/CSRF | 로드밸런싱/게이트웨이 |
+| 10주차 | 10/20 (일)  | 컴퓨터네트워크  | 이더넷/LAN/WAN | - |
